@@ -1,4 +1,4 @@
-# yy_components
+# yy-ui
 
 ## Project setup
 ```
